@@ -1,6 +1,6 @@
 AirBnB Seattle DataViz
 
-Project Overview
+Project Overview:
 This project involves creating an interactive data visualization dashboard using Tableau Public. The project was guided by Alex Freberg, providing a structured approach to learning data visualization techniques with real-world data. The dashboard focuses on analyzing various aspects of Airbnb listings, including occupancy rates, pricing trends, and geographical distribution.
 
 Table of Contents
